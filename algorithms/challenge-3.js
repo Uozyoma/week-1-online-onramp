@@ -13,6 +13,6 @@ function isDivisbleByN(arr=[], n){
    }
    console.log(newArr);
  }
-
+ 
 
 module.exports = isDivisbleByN

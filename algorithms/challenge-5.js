@@ -17,7 +17,7 @@ function replaceDivisible(x=[], y){
  newArr.push(myDivisible);
     }
 
-  }
+  } 
 console.log(newArr);
 newArr=[];
 }

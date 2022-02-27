@@ -19,7 +19,7 @@ function highestSum(x=[],y=[]){
     }
     else if (sumArr2 > sumArr1){
       console.log(sumArr2);
-    }
+    } 
 
 
 }

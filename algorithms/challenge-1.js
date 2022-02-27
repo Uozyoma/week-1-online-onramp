@@ -11,7 +11,7 @@ count++;
 nomber =count;
 
 }
-console.log(nomber);
+console.log(nomber); 
  }
 
 module.exports = noOfElements

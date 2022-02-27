@@ -11,6 +11,6 @@ function divisible (a=[]){
   mDiv=count;
   }
     console.log(mDiv);
-  }
+  } 
   
 module.exports = divisible
